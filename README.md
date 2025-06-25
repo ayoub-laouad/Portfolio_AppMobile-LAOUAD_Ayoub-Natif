@@ -50,11 +50,5 @@ PortfolioApplication est une application Android développée avec Android Studi
 
 ## Auteur
 
-- Nom : [Votre nom]
-- Email : [Votre email]
-- LinkedIn : [Votre profil LinkedIn]
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus d'informations.
+- Nom : LAOUAD Ayoub
 
