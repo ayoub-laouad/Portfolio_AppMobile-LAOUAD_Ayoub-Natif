@@ -37,7 +37,7 @@ PortfolioApplication est une application Android développée avec Android Studi
 
 1. Cloner le dépôt :
    ```
-   git clone <url-du-depot>
+   git clone "https://github.com/ayoub-laouad/Portfolio_AppMobile-LAOUAD_Ayoub-Natif"
    ```
 2. Ouvrir le projet dans Android Studio.
 3. Lancer l'application sur un émulateur ou un appareil Android.
